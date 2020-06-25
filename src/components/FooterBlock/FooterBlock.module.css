@@ -1,0 +1,40 @@
+.container {
+    background-color: #200772;
+    min-height: 350px;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    color: #ffffff;
+    width: 100%;
+    height: 100%;
+    padding: 40px 0px 10px 0px;
+}
+
+.container ul > li > a {
+    cursor: pointer;
+    font-weight: 300;
+
+}
+
+.container ul > li {
+    list-style: none;
+    margin-bottom: 15px;
+}
+
+.container .footerText {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.container .footerText p {
+    width: 350px;
+    margin: 10px 0px 10px 0px;
+    font-weight: 300;
+}
+
+.container span {
+    display: flex;
+    justify-content: center;
+    font-weight: 500;
+}
